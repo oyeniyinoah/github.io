@@ -3,8 +3,8 @@ A DATA ANALYST WELL VERSED IN STRUCTURED QUERY LANGUAGE (SQL), PYTHON,
 MICROSOFT POWER BI AND TABLEAU VISUALISATION TOOLS
 
 ## Education
-Master of Science, FinTech - University of Huddersfield - January 2023 - February 2024
-Bachelor of Science, Accounting - Ekiti State University, Nigeria - January 2011 - July 2015
+- Master of Science, FinTech - University of Huddersfield, England- January 2023 - February 2024
+- Bachelor of Science, Accounting - Ekiti State University, Nigeria - January 2011 - July 2015
 
 ## Work experience
 - Product data analyst - BankiFi Technology Limited Oct 2023 - Presnt
