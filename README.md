@@ -1,4 +1,4 @@
-! [me] (assets/Noah Headshot.png)
+![me](assets/Noah Headshot.png)
 
 # Data Analyst
 A data-driven finance enthusiast with a keen focus on data analysis. My career goal is to be at the center of digital innovation in the finance sector, contributing to dynamic and strategic business decisions through data-driven insights.
