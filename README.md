@@ -57,6 +57,7 @@ tax position.
 - Review of clients’ intercompany transactions to advise on areas of transfer pricing exposure
 - Preparation of transfer pricing contemporaneous documents (Master file and Local file)
 
-
-
-### Projects
+## Certification
+- Applied Data Science I: Scientific Computing & Python (with honors) - WorldQuant Univeristy
+- Data Science Orientation - Issued by Coursera | Authorised by IBM
+- Introduction to Blockchain for Financial Services - Issued by Coursera
