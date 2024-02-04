@@ -59,6 +59,5 @@ tax position.
 ## Certification
 - Applied Data Science I: Scientific Computing & Python (with honors) - WorldQuant Univeristy
 - Introduction to Python for Data Science - Data Science Nigeria
-- Data Science Orientation - Issued by Coursera, Authorised by IBM
 - Introduction to Blockchain for Financial Services - Issued by Coursera
 - Associate Chartered Accountant - Institute of Chartered Accountants of Nigeria
