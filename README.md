@@ -30,7 +30,6 @@ transactions.
 - Developed comprehensive proposals for new client engagements and crafted client engagement letters for 
 managers’ review and client approval
 
- 
 ### Freelance Research Data Analyst July 2016 – Present 
  
 As a Freelance Research Data Analyst, I specialize in providing comprehensive support to researchers by guiding them 
@@ -60,6 +59,6 @@ tax position.
 ## Certification
 - Applied Data Science I: Scientific Computing & Python (with honors) - WorldQuant Univeristy
 - Introduction to Python for Data Science - Data Science Nigeria
-- Data Science Orientation - Issued by Coursera | Authorised by IBM
+- Data Science Orientation - Issued by Coursera, Authorised by IBM
 - Introduction to Blockchain for Financial Services - Issued by Coursera
 - Associate Chartered Accountant - Institute of Chartered Accountants of Nigeria
