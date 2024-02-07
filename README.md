@@ -1,13 +1,13 @@
 
 # Data Analyst
-A data-driven finance enthusiast with a keen focus on data analysis. My career goal is to be at the center of digital innovation in the finance sector, contributing to dynamic and strategic business decisions through data-driven insights.
+I am a data-driven finance enthusiast with a keen focus on data analysis. My career goal is to be at the center of digital innovation in the finance sector, contributing to dynamic and strategic business decisions through data-driven insights.
 
 ## Education
-- Master of Science, FinTech - University of Huddersfield, England- January 2023 - February 2024
+- Master of Science, FinTech, University of Huddersfield, England - January 2023 - February 2024
 - Bachelor of Science, Accounting - Ekiti State University, Nigeria - January 2011 - July 2015
 
 ## Work experience
-### Product data analyst - BankiFi Technology Limited Oct 2023 - Presnt
+### Product data analyst - BankiFi Technology Limited Oct 2023 - Present
 - Developed and maintained SQL queries for extracting, transforming, and loading (ETL) data from various sources into the company's databases, ensuring data accuracy and integrity.
 -	Collaborated with stakeholders to identify key performance indicators (KPIs) and developed Power BI dashboards to visually represent relevant metrics, facilitating data-driven decision-making processes.
 -	Conducted thorough data analysis to extract actionable insights, providing valuable recommendations for product enhancement and strategy development.
